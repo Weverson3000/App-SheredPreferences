@@ -97,7 +97,7 @@ class _MainAppState extends State<MainApp> {
                     keyboardType: TextInputType.number,
                     style: new TextStyle(color: Colors.white, fontSize: 20),
                     decoration: InputDecoration(
-                      labelText: "Matricula",
+                      labelText: "Usuáio",
                       labelStyle: TextStyle(color: Colors.white)
                     ),
                   ),
